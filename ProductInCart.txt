@@ -1,0 +1,56 @@
+INSERT INTO ProductInCart
+Values(1238, 992, 10000110, 1);
+INSERT INTO ProductInCart
+Values(1251, 973, 10000111, 2);
+INSERT INTO ProductInCart
+Values(1244, 974, 10000112, 1);
+INSERT INTO ProductInCart
+Values(1245, 996, 10000113, 6);
+INSERT INTO ProductInCart
+Values(1246, 984, 10000114, 10);
+INSERT INTO ProductInCart
+Values(1247, 966, 10000115, 4);
+INSERT INTO ProductInCart
+Values(1248, 988, 10000116, 2);
+INSERT INTO ProductInCart
+Values(1249, 992, 10000117, 10);
+INSERT INTO ProductInCart
+Values(1236, 994, 10000118, 15);
+INSERT INTO ProductInCart
+Values(1249, 997, 10000119, 1);
+INSERT INTO ProductInCart
+Values(1250, 986, 10000120, 20);
+INSERT INTO ProductInCart
+Values(1251, 993, 10000121, 21);
+INSERT INTO ProductInCart
+Values(1252, 997, 10000122, 1);
+INSERT INTO ProductInCart
+Values(1236, 966, 10000123, 1);
+INSERT INTO ProductInCart
+Values(1237, 996, 10000124, 2);
+INSERT INTO ProductInCart
+Values(1238, 961, 10000125, 1);
+INSERT INTO ProductInCart
+Values(1239, 995, 10000126, 1);
+INSERT INTO ProductInCart
+Values(1240, 974, 10000127, 50);
+INSERT INTO ProductInCart
+Values(1252, 997, 10000128, 1);
+INSERT INTO ProductInCart
+Values(1253, 966, 10000129, 3);
+INSERT INTO ProductInCart
+Values(1238, 994, 10000130, 1);
+INSERT INTO ProductInCart
+Values(1245, 966, 10000131, 1);
+INSERT INTO ProductInCart
+Values(1246, 996, 10000132, 1);
+INSERT INTO ProductInCart
+Values(1236, 961, 10000133, 1);
+INSERT INTO ProductInCart
+Values(1249, 973, 10000134, 1);
+INSERT INTO ProductInCart
+Values(1245, 992, 10000110, 2);
+INSERT INTO ProductInCart
+Values(1251, 992, 10000110, 3);
+INSERT INTO ProductInCart
+Values(1256, 966, 10000129, 1);

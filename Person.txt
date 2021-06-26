@@ -1,0 +1,20 @@
+INSERT INTO Person
+Values(110, 'Naqi', 'Mamooli', 972);
+INSERT INTO Person
+Values(111, 'Arastoo', 'Amel', 951);
+INSERT INTO Person
+Values(112, 'Shiva', 'Khodadad', 998);
+INSERT INTO Person
+Values(113, 'Hasan', 'Reyvandi', 994);
+INSERT INTO Person
+Values(114, 'Mohsen', 'Qane', 982);
+INSERT INTO Person
+Values(115, 'Shayan', 'Hoseini', 969);
+INSERT INTO Person
+Values(116, 'Alireza', 'Akbari', 967);
+INSERT INTO Person
+Values(117, 'Farshiid', 'Banihashem', 965);
+INSERT INTO Person
+Values(118, 'Alireza', 'Aghaei', 963);
+INSERT INTO Person
+Values(119, 'Hesam', 'Esmaeli', 961);

@@ -1,0 +1,40 @@
+INSERT INTO Supplier
+Values(971, '3');
+INSERT INTO Supplier
+Values(973, '4');
+INSERT INTO Supplier
+Values(981, '2');
+INSERT INTO Supplier
+Values(983, '1');
+INSERT INTO Supplier
+Values(985, '0');
+INSERT INTO Supplier
+Values(987, '5');
+INSERT INTO Supplier
+Values(991, '3.5');
+INSERT INTO Supplier
+Values(993, '3');
+INSERT INTO Supplier
+Values(995, '4.2');
+INSERT INTO Supplier
+Values(997, '3');
+INSERT INTO Supplier
+Values(961, '1.9');
+INSERT INTO Supplier
+Values(963, '2.9');
+INSERT INTO Supplier
+Values(965, '3.2');
+INSERT INTO Supplier
+Values(967, '5');
+INSERT INTO Supplier
+Values(969, '4.7');
+INSERT INTO Supplier
+Values(982, '4.2');
+INSERT INTO Supplier
+Values(994, '3.6');
+INSERT INTO Supplier
+Values(998, '2.5');
+INSERT INTO Supplier
+Values(951, '4.9');
+INSERT INTO Supplier
+Values(972, '4');

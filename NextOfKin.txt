@@ -1,0 +1,38 @@
+INSERT INTO NextOfKin
+Values(401, 'Brother', '021-22334455', 'Gorgan', 'Amir', 'Salarzade');
+INSERT INTO NextOfKin
+Values(402, 'Mother', '021-44233433', 'Downtown Montreal', 'Fahime', 'Ameli');
+INSERT INTO NextOfKin
+Values(403, 'Father', '022-33996677', 'Downtown Texas', 'Mohammad', 'Asali');
+INSERT INTO NextOfKin
+Values(404, 'Sister', '011-33228744', 'JFK', 'Taraneh', 'Bizad');
+INSERT INTO NextOfKin
+Values(405, 'Gmother', '032-84930445', 'Pardisan 9 - pelak 3', 'Kolsoom', 'Zakariaei');
+INSERT INTO NextOfKin
+Values(406, 'Gfather', '020-48194032', 'Pardis 4', 'Asqar', 'Rezaii');
+INSERT INTO NextOfKin
+Values(407, 'Brother', '034-65829675', 'Parand', 'Hassan', 'Sharyati');
+INSERT INTO NextOfKin
+Values(408, 'Mother', '020-44826301', 'Marzadaran', 'Fatemeh', 'Fatemi');
+INSERT INTO NextOfKin
+Values(409, 'Father', '021-37296492', 'Poonak', 'Hossein', 'Namdar');
+INSERT INTO NextOfKin
+Values(410, 'Brother', '020-36294682', 'Enqelab-44', 'Pedram', 'Aghaei');
+INSERT INTO NextOfKin
+Values(411, 'Mother', '011-36294673', 'Shahran', 'Maryam', 'Hemmati');
+INSERT INTO NextOfKin
+Values(412, 'Father', '034-42947892', 'Hotel Darvish', 'Ali', 'Alipour');
+INSERT INTO NextOfKin
+Values(413, 'Brother', '021-46394729', 'Downtown Shiraz', 'Reza', 'Rezazade');
+INSERT INTO NextOfKin
+Values(414, 'Mother', '110-23840349', '33 pol', 'Fatima', 'Akbari');
+INSERT INTO NextOfKin
+Values(415, 'Father', '222-33666762', 'Downtown Markazi', 'Akbar', 'Asqari');
+INSERT INTO NextOfKin
+Values(417, 'Gmother', '444-23666482', 'JFK', 'Roqaye', 'Akbari');
+INSERT INTO NextOfKin
+Values(418, 'Gfather', '052-28402658', 'Pardisan 9 - pelak 3', 'Borna', 'Barahimi');
+INSERT INTO NextOfKin
+Values(419, 'Sister', '023-24693492', 'Pardis 4', 'Soosan', 'Aghaei');
+INSERT INTO NextOfKin
+Values(420, 'Gmother', '021-47302949', 'Parand', 'Tayyebe', 'Mohammadi');

@@ -1,0 +1,40 @@
+INSERT INTO OrderRateProduct
+Values(1238, 992, 21000200, 4);
+INSERT INTO OrderRateProduct
+Values(1251, 973, 21000201, 7);
+INSERT INTO OrderRateProduct
+Values(1244, 974, 21000202, 5);
+INSERT INTO OrderRateProduct
+Values(1245, 996, 21000203, 9);
+INSERT INTO OrderRateProduct
+Values(1246, 984, 21000204, 3);
+INSERT INTO OrderRateProduct
+Values(1247, 966, 21000205, 0);
+INSERT INTO OrderRateProduct
+Values(1248, 988, 21000206, 2);
+INSERT INTO OrderRateProduct
+Values(1249, 992, 21000207, 5);
+INSERT INTO OrderRateProduct
+Values(1236, 994, 21000208, 3);
+INSERT INTO OrderRateProduct
+Values(1249, 997, 21000209, 7);
+INSERT INTO OrderRateProduct
+Values(1250, 986, 21000210, 2);
+INSERT INTO OrderRateProduct
+Values(1251, 993, 21000211, 7);
+INSERT INTO OrderRateProduct
+Values(1252, 997, 21000212, 3);
+INSERT INTO OrderRateProduct
+Values(1236, 966, 21000213, 9);
+INSERT INTO OrderRateProduct
+Values(1237, 996, 21000214, 4);
+INSERT INTO OrderRateProduct
+Values(1238, 961, 21000215, 8);
+INSERT INTO OrderRateProduct
+Values(1239, 995, 21000216, 2);
+INSERT INTO OrderRateProduct
+Values(1240, 974, 21000217, 5);
+INSERT INTO OrderRateProduct
+Values(1252, 997, 21000218, 9);
+INSERT INTO OrderRateProduct
+Values(1253, 966, 21000219, 3);

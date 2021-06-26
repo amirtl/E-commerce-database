@@ -1,0 +1,42 @@
+INSERT INTO Category
+Values(345, 'Socks', NULL, NULL);
+INSERT INTO Category
+Values(346, 'T-shirt', NULL, NULL);
+INSERT INTO Category
+Values(347, 'Digital', 'good for technology', NULL);
+INSERT INTO Category
+Values(348, 'Watch', NULL, NULL);
+INSERT INTO Category
+Values(349, 'Shoes', NULL, NULL);
+INSERT INTO Category
+Values(350, 'Pixel', 'ready to stick on your bag', NULL);
+INSERT INTO Category
+Values(351, 'Food', 'time to eat', NULL);
+INSERT INTO Category
+Values(352, 'Mobile', NULL, NULL);
+INSERT INTO Category
+Values(353, 'Knife', 'good design & good for camping', NULL);
+INSERT INTO Category
+Values(354, 'Laptop', NULL, NULL);
+INSERT INTO Category
+Values(355, 'TV', 'see better', NULL);
+INSERT INTO Category
+Values(356, 'Jeans', NULL, NULL);
+INSERT INTO Category
+Values(357, 'Glasses', 'look better', NULL);
+INSERT INTO Category
+Values(358, 'Design', 'good design will make you feel better', NULL);
+INSERT INTO Category
+Values(359, 'Windows', NULL, NULL);
+INSERT INTO Category
+Values(360, 'Smoke', 'smoking kills', NULL);
+INSERT INTO Category
+Values(361, 'Writing', 'write better', NULL);
+INSERT INTO Category
+Values(362, 'Sport', NULL, NULL);
+INSERT INTO Category
+Values(363, 'Car', NULL, NULL);
+INSERT INTO Category
+Values(364, 'Cookies', 'Yummy!', NULL);
+INSERT INTO Category
+Values(365, 'Room Design', 'everything you need in your room', NULL);

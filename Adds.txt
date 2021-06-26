@@ -1,0 +1,44 @@
+INSERT INTO Adds
+Values(401, 1235);
+INSERT INTO Adds
+Values(402, 1236);
+INSERT INTO Adds
+Values(403, 1237);
+INSERT INTO Adds
+Values(404, 1238);
+INSERT INTO Adds
+Values(405, 1239);
+INSERT INTO Adds
+Values(406, 1240);
+INSERT INTO Adds
+Values(407, 1241);
+INSERT INTO Adds
+Values(408, 1242);
+INSERT INTO Adds
+Values(409, 1243);
+INSERT INTO Adds
+Values(410, 1244);
+INSERT INTO Adds
+Values(404, 1245);
+INSERT INTO Adds
+Values(408, 1246);
+INSERT INTO Adds
+Values(404, 1247);
+INSERT INTO Adds
+Values(405, 1248);
+INSERT INTO Adds
+Values(406, 1249);
+INSERT INTO Adds
+Values(408, 1250);
+INSERT INTO Adds
+Values(409, 1251);
+INSERT INTO Adds
+Values(410, 1252);
+INSERT INTO Adds
+Values(402, 1253);
+INSERT INTO Adds
+Values(403, 1254);
+INSERT INTO Adds
+Values(402, 1255);
+INSERT INTO Adds
+Values(403, 1256);

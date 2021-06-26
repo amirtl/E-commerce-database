@@ -1,0 +1,40 @@
+INSERT INTO PersonalInfoSupplier
+Values(971, 200, 'Tehran', 'ali23@yahoo.com', '021-37296492', 'Saadat Abad- 9th Street', 'Iran', '2349624672');
+INSERT INTO PersonalInfoSupplier
+Values(973, 201, 'shiraz', 'mamad1@gmail.com', '020-36294682', 'Imam Sq.', 'Iran', '8767642465');
+INSERT INTO PersonalInfoSupplier
+Values(981, 202, 'Mazandaran', 'reza@yahoo.com', '011-36294673', 'Shohada Sq.', 'Iran', '1247247827');
+INSERT INTO PersonalInfoSupplier
+Values(983, 203, 'Azarbayejan-Sharqi', 'mohsen@gmail.com', '034-42947892', 'Marzi Blv.', 'Iran', '2946284383');
+INSERT INTO PersonalInfoSupplier
+Values(985, 204, 'Tehran', 'mas@yahoo.com', '021-46394729', 'W Hemmat Blv.', 'Iran', '4878798454');
+INSERT INTO PersonalInfoSupplier
+Values(987, 205, 'Kabol', 'br@gmail.com', '110-23840349', 'Downtown Kabol', 'Afghanistan', '4242554234');
+INSERT INTO PersonalInfoSupplier
+Values(991, 206, 'Toronto', 'sdfg@gmail.com', '222-33666762', 'Downtown Toronto', 'Canada', '5454695896');
+INSERT INTO PersonalInfoSupplier
+Values(993, 207, 'Los Angeles', 'haassn@gmail.com', '333-23555393', 'Bevrly Hills', 'USA', '7890576763');
+INSERT INTO PersonalInfoSupplier
+Values(995, 208, 'Mountain View', 'maasfvs@yahoo.com', '444-23666482', 'Santa Clara', 'USA', '7587452547');
+INSERT INTO PersonalInfoSupplier
+Values(997, 209, 'Kish', 'm1234as@yahoo.com', '052-28402658', 'Pardis 1- Num 4', 'Iran', '9860958135');
+INSERT INTO PersonalInfoSupplier
+Values(961, 210, 'Qeshm', 'm23rgas@yahoo.com', '023-24693492', 'Pardisan 9- Num 3', 'Iran', '9550235443');
+INSERT INTO PersonalInfoSupplier
+Values(963, 211, 'Tehran', 'mg3r545as@yahoo.com', '021-47302949', 'Parand', 'Iran', '9874562738');
+INSERT INTO PersonalInfoSupplier
+Values(965, 212, 'Tehran', 'msvrfe4as@yahoo.com', '021-22334455', 'Marzdaran- Nahid', 'Iran', '2394028563');
+INSERT INTO PersonalInfoSupplier
+Values(967, 213, 'Tehran', 'saasfwqd@gmail.com', '021-44233433', 'West Punak', 'Iran', '2378764246');
+INSERT INTO PersonalInfoSupplier
+Values(969, 214, 'Qom', 'ali@yahoo.com', '022-33996677', 'Keshavarz- 23', 'Iran', '2394636423');
+INSERT INTO PersonalInfoSupplier
+Values(982, 215, 'Mazandaran', 'mamad@yahoo.com', '011-33228744', 'Pirouze- Laleh18', 'Iran', '3498709124');
+INSERT INTO PersonalInfoSupplier
+Values(994, 216, 'Mashhad', 'hosein@yahoo.com', '032-84930445', 'Enqelab- 44', 'Iran', '2349089773');
+INSERT INTO PersonalInfoSupplier
+Values(998, 217, 'shiraz', 'amir@gmail.com', '020-48194032', 'Downtown Shiraz', 'Iran', '2349869083');
+INSERT INTO PersonalInfoSupplier
+Values(951, 218, 'Isfahan', 'salam@gmail.com', '034-65829675', 'Naqshe Jahan- 2nd Street', 'Iran', '8926426429');
+INSERT INTO PersonalInfoSupplier
+Values(972, 219, 'Shiraz', 'sarda@yahoo.com', '020-44826301', 'Downtown Shiraz', 'Iran', '2749027894');

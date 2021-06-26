@@ -1,0 +1,18 @@
+INSERT INTO PartTime
+Values(411, 50000);
+INSERT INTO PartTime
+Values(412, 50000);
+INSERT INTO PartTime
+Values(413, 80000);
+INSERT INTO PartTime
+Values(414, 70000);
+INSERT INTO PartTime
+Values(415, 750000);
+INSERT INTO PartTime
+Values(417, 100000);
+INSERT INTO PartTime
+Values(418, 90000);
+INSERT INTO PartTime
+Values(419, 50000);
+INSERT INTO PartTime
+Values(420, 70000);

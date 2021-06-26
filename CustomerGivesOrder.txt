@@ -1,0 +1,40 @@
+INSERT INTO CustomerGivesOrder
+Values(10000110, 992, 21000200, '98/02/10');
+INSERT INTO CustomerGivesOrder
+Values(10000111, 973, 21000201, '98/03/02');
+INSERT INTO CustomerGivesOrder
+Values(10000112, 974, 21000202, '98/10/12');
+INSERT INTO CustomerGivesOrder
+Values(10000113, 996, 21000203, '98/11/29');
+INSERT INTO CustomerGivesOrder
+Values(10000114, 984, 21000204, '98/12/04');
+INSERT INTO CustomerGivesOrder
+Values(10000115, 966, 21000205, '99/01/14');
+INSERT INTO CustomerGivesOrder
+Values(10000116, 988, 21000206, '99/01/14');
+INSERT INTO CustomerGivesOrder
+Values(10000117, 992, 21000207, '99/01/15');
+INSERT INTO CustomerGivesOrder
+Values(10000118, 994, 21000208, '99/01/16');
+INSERT INTO CustomerGivesOrder
+Values(10000119, 997, 21000209, '99/01/17');
+INSERT INTO CustomerGivesOrder
+Values(10000120, 986, 21000210, '99/01/18');
+INSERT INTO CustomerGivesOrder
+Values(10000121, 993, 21000211, '99/01/19');
+INSERT INTO CustomerGivesOrder
+Values(10000122, 997, 21000212, '99/02/01');
+INSERT INTO CustomerGivesOrder
+Values(10000123, 966, 21000213, '99/02/02');
+INSERT INTO CustomerGivesOrder
+Values(10000124, 996, 21000214, '99/02/10');
+INSERT INTO CustomerGivesOrder
+Values(10000125, 961, 21000215, '99/02/11');
+INSERT INTO CustomerGivesOrder
+Values(10000126, 995, 21000216, '99/02/12');
+INSERT INTO CustomerGivesOrder
+Values(10000127, 974, 21000217, '99/02/13');
+INSERT INTO CustomerGivesOrder
+Values(10000128, 997, 21000218, '99/02/14');
+INSERT INTO CustomerGivesOrder
+Values(10000129, 966, 21000219, '99/02/15');

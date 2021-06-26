@@ -1,0 +1,18 @@
+INSERT INTO Security
+Values(411, 170);
+INSERT INTO Security
+Values(412, 200);
+INSERT INTO Security
+Values(413, 175);
+INSERT INTO Security
+Values(414, 202);
+INSERT INTO Security
+Values(415, 186);
+INSERT INTO Security
+Values(417, 197);
+INSERT INTO Security
+Values(418, 192);
+INSERT INTO Security
+Values(419, 167);
+INSERT INTO Security
+Values(420, 187);

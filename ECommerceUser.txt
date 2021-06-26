@@ -1,0 +1,60 @@
+INSERT INTO ECommerceUser
+Values(971);
+INSERT INTO ECommerceUser
+Values(972);
+INSERT INTO ECommerceUser
+Values(973);
+INSERT INTO ECommerceUser
+Values(974);
+INSERT INTO ECommerceUser
+Values(981);
+INSERT INTO ECommerceUser
+Values(982);
+INSERT INTO ECommerceUser
+Values(983);
+INSERT INTO ECommerceUser
+Values(984);
+INSERT INTO ECommerceUser
+Values(985);
+INSERT INTO ECommerceUser
+Values(986);
+INSERT INTO ECommerceUser
+Values(987);
+INSERT INTO ECommerceUser
+Values(988);
+INSERT INTO ECommerceUser
+Values(991);
+INSERT INTO ECommerceUser
+Values(992);
+INSERT INTO ECommerceUser
+Values(993);
+INSERT INTO ECommerceUser
+Values(994);
+INSERT INTO ECommerceUser
+Values(995);
+INSERT INTO ECommerceUser
+Values(996);
+INSERT INTO ECommerceUser
+Values(997);
+INSERT INTO ECommerceUser
+Values(998);
+INSERT INTO ECommerceUser
+Values(961);
+INSERT INTO ECommerceUser
+Values(962);
+INSERT INTO ECommerceUser
+Values(963);
+INSERT INTO ECommerceUser
+Values(964);
+INSERT INTO ECommerceUser
+Values(965);
+INSERT INTO ECommerceUser
+Values(966);
+INSERT INTO ECommerceUser
+Values(967);
+INSERT INTO ECommerceUser
+Values(968);
+INSERT INTO ECommerceUser
+Values(969);
+INSERT INTO ECommerceUser
+Values(951);

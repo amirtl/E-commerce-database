@@ -1,0 +1,40 @@
+INSERT INTO Employee
+Values(401, 'BS', NULL, 'Akbar', 'Mohammadi');
+INSERT INTO Employee
+Values(402, 'MS', NULL, 'Amirali', 'Aghaei');
+INSERT INTO Employee
+Values(403, 'BA', NULL, 'Zahra', 'Hosseini');
+INSERT INTO Employee
+Values(404, 'MA', NULL, 'Negar', 'Vafei');
+INSERT INTO Employee
+Values(405, 'BS', NULL, 'Negin', 'Zeinabi');
+INSERT INTO Employee
+Values(406, 'BA', NULL, 'Noura', 'Hosseinifard');
+INSERT INTO Employee
+Values(407, 'MA', NULL, 'Mahsa', 'Nazari');
+INSERT INTO Employee
+Values(408, 'MA', NULL, 'Amin', 'Karimi');
+INSERT INTO Employee
+Values(409, 'BS', NULL, 'Hasan', 'karami');
+INSERT INTO Employee
+Values(410, 'BA', NULL, 'Ali', 'Akbari');
+INSERT INTO Employee
+Values(411, 'MA', NULL, 'Mohammad', 'Hassani');
+INSERT INTO Employee
+Values(412, 'BS', NULL, 'Nader', 'Amiri');
+INSERT INTO Employee
+Values(413, 'MS', NULL, 'Hassan', 'Hasani Moghadam');
+INSERT INTO Employee
+Values(414, 'BA', NULL, 'Amirali', 'Salari');
+INSERT INTO Employee
+Values(415, 'MA', NULL, 'Pedram', 'Aghazadeh');
+INSERT INTO Employee
+Values(416, 'BS', NULL, 'Shayan', 'Peyghambari Oskooei');
+INSERT INTO Employee
+Values(417, 'BA', NULL, 'Hossein', 'Nourozi');
+INSERT INTO Employee
+Values(418, 'MA', NULL, 'Mohsen', 'Qane'');
+INSERT INTO Employee
+Values(419, 'BS', NULL, 'Asqar', 'Mamooli');
+INSERT INTO Employee
+Values(420, 'BA', NULL, 'Akbar', 'Alizadeh');

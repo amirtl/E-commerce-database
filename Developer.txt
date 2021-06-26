@@ -1,0 +1,18 @@
+INSERT INTO Developer
+Values(414, 'FE');
+INSERT INTO Developer
+Values(415, 'BE');
+INSERT INTO Developer
+Values(406, 'FE');
+INSERT INTO Developer
+Values(407, 'FE');
+INSERT INTO Developer
+Values(408, 'BE');
+INSERT INTO Developer
+Values(413, 'FE');
+INSERT INTO Developer
+Values(409, 'BE');
+INSERT INTO Developer
+Values(410, 'FE');
+INSERT INTO Developer
+Values(417, 'BE');
